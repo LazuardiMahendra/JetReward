@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/drawable_reward_5.jpg.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/drawable/reward_5.jpg"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/xml_data_extraction_rules.xml.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/drawable_reward_7.jpg.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/drawable/reward_7.jpg"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/xml_backup_rules.xml.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/drawable_reward_1.jpg.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/drawable/reward_1.jpg"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/drawable_reward_9.jpg.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/drawable/reward_9.jpg"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/drawable_reward_11.jpg.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/drawable/reward_11.jpg"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/drawable_reward_4.jpg.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/drawable/reward_4.jpg"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/drawable_reward_10.jpg.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/drawable/reward_10.jpg"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/drawable_reward_6.jpg.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/drawable/reward_6.jpg"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/drawable_reward_2.jpg.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/drawable/reward_2.jpg"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/drawable_reward_8.jpg.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/drawable/reward_8.jpg"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/drawable_reward_12.jpg.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/drawable/reward_12.jpg"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/drawable_reward_3.jpg.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/drawable/reward_3.jpg"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.dicoding.jetreward.app-debug-53:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.jetreward.app-main-55:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]
